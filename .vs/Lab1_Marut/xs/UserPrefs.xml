@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{BD2A9169-9E90-4761-8D0F-F5DC5EDAFD2A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lab1__Marut.Rest PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab1_Marut.Rest/Program.cs">
+    <Files>
+      <File FileName="Lab1_Marut.Rest/Program.cs" Line="9" Column="1" />
+      <File FileName="Lab1_Marut.Rest/appsettings.json" Line="11" Column="156" />
+      <File FileName="Lab1_Marut.Rest/Startup.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab1_Marut" expanded="True">
+            <Node name="Lab1_Marut.Rest" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
